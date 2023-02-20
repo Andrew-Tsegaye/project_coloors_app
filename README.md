@@ -48,7 +48,8 @@ If you would like to contribute to this project, you can fork this repository an
 
 Please make sure to follow the [Contributing Guidlines](https://github.blog/2012-09-17-contributing-guidelines/) when making your changes.
 
-Acknowledgments
+## Acknowledgments
+
 This project was inspired by the beauty of color and the power it has to transform our world. Thank you to all the developers who contributed to the open source tools and technologies used to build this app.
 
 ## License
