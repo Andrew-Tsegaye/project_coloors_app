@@ -5,7 +5,7 @@ Welcome to the Color Palette App! This app is designed to help you create beauti
 ![color_app](https://i.imgur.com/VumLIPF.png)
 
 ## Getting Started
-To use the app, simply navigate to the following URL: [INSERT APP URL HERE]. The app is fully responsive and can be used on any device, including desktops, laptops, tablets, and smartphones.
+To use the app, simply navigate to the following app: [Coloors](https://coloored.netlify.app). The app is fully responsive and can be used on any device, including desktops, laptops, tablets, and smartphones.
 
 ## Features
 
